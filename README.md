@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="/img/colab.png" alt="Colab" width="50">
-  <img src="/img/vscode.png" alt="VSCode" width="50">
-  <img src="/img/gcp.png" alt="GCP" width="60">
-  <img src="/img/cloud-storage.png" alt="Cloud Storage" width="50">
-  <img src="/img/dataflow.png" alt="DataFlow" width="50">
-  <img src="/img/bigquery.png" alt="BigQuery" width="50">
+  <img src="/img/colab.png" alt="Colab" width="40">
+  <img src="/img/vscode.png" alt="VSCode" width="40">
+  <img src="/img/gcp.png" alt="GCP" width="50">
+  <img src="/img/cloud-storage.png" alt="Cloud Storage" width="40">
+  <img src="/img/dataflow.png" alt="DataFlow" width="40">
+  <img src="/img/bigquery.png" alt="BigQuery" width="40">
 </p>
 
 Bem-vindo ao meu repositório de Estudos sobre o Apache Beam! Aqui, você encontrará uma coleção de códigos e recursos relacionados à minha exploração do Apache Beam, um modelo de processamento de dados poderoso e versátil. Se você é novo no Apache Beam ou está procurando expandir seus conhecimentos, este repositório tem como objetivo fornecer um guia abrangente para vários aspectos do Apache Beam, com foco particular em sua integração com a Google Cloud Platform (GCP).
