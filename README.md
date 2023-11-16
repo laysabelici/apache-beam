@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="/img/apache-beam.png" alt="Apache Beam Logo" width="300">
-</p>
 
 <p align="center">
   <img src="/img/colab.png" alt="Colab" width="40">
