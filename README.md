@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="/img/apache-beam.png" alt="Apache Beam Logo" width="300">
-</p>
-<p align="center">
+  <img src="/img/apache-beam.png" alt="Apache Beam Logo" width="40">
   <img src="/img/colab.png" alt="Colab" width="40">
   <img src="/img/vscode.png" alt="VSCode" width="40">
   <img src="/img/gcp.png" alt="GCP" width="50">
