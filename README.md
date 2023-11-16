@@ -5,7 +5,7 @@
 <p align="center">
   <img src="/img/colab.png" alt="Colab" width="50">
   <img src="/img/vscode.png" alt="VSCode" width="50">
-  <img src="/img/gcp.png" alt="GCP" width="100">
+  <img src="/img/gcp.png" alt="GCP" width="60">
   <img src="/img/cloud-storage.png" alt="Cloud Storage" width="50">
   <img src="/img/dataflow.png" alt="DataFlow" width="50">
   <img src="/img/bigquery.png" alt="BigQuery" width="50">
